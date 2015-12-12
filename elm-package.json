@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "summary": "",
+    "repository": "https://github.com/NoRedInk/elm-moment.git",
+    "license": "BSD-3-Clause",
+    "source-directories": [
+        "src/",
+    ],
+    "native-modules": true,
+    "dependencies": {
+        "elm-lang/core": "3.0.0 <= v <= 3.0.0"
+    },
+    "elm-version": "0.16.0 <= v <= 0.16.0"
+}
